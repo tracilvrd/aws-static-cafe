@@ -246,7 +246,8 @@ Verified:
 - Cloud Cost Optimization
 
 ---
-
+## Working endpoint
+http://traci-cafe-amzn-bucket.s3-website-us-east-1.amazonaws.com/
 
 ## Learning Outcomes
 Through this project, I gained practical experience in:
@@ -274,7 +275,7 @@ Through this project, I gained practical experience in:
 
 ## Author
 **Ese Daniel**
-Cloud & Software Engineer
+**Cloud & Software Engineer**
 
 
 ---
