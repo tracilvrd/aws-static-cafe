@@ -274,7 +274,7 @@ Through this project, I gained practical experience in:
 ---
 
 ## Author
-**Ese Daniel
+**Ese Daniel |
 Cloud & Software Engineer**
 
 
